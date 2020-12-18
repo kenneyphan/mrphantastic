@@ -23,7 +23,7 @@ class App extends React.Component {
 	render() {
 		return (
 			<section>
-				<Router>
+				<Router basename="/mrphantastic">
 					<nav className="navigation">
 						<NavLink to="/" className="links" activeClassName="selected" exact={true}>Home</NavLink>
 						<NavLink to="/music" className="links" activeClassName="selected">Music</NavLink>
