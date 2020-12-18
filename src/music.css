@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'MrPhantasticFont';
+	src: local('VTKS CLASSICAL HIT'), url(./fonts/VTKS CLASSICAL HIT.TTF) format('nasjkfnsak');
+}
+
+.title {
+	font-family: MrPhantasticFont;
+	padding-top: 53px;
+	position: fixed;	
+	left: 50%;	
+    transform: translate(-50%, -50%);
+
+	color: black;
+	font-size: 50px;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	opacity: 0.5;
+}
+
+.bgVid {
+	min-height: 100%;
+  	min-width: 1024px;
+
+	/* Set up proportionate scaling */
+	width: 100%;
+	height: auto;
+	/*height: 100vh;*/
+
+	/* Set up positioning */
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	top: 0;
+	right: 0;
+	z-index: -1;
+}
+
+
+.albums {
+	padding-top:300px;
+}
+

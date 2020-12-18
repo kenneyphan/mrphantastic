@@ -1,0 +1,65 @@
+/* LINKS */
+.navigation {
+	position: fixed;
+	top: 10px;
+	width: 100%;
+	text-align: right;
+	z-index: 1;
+}
+
+.links {
+	position: sticky;
+	margin-right: 20px;
+	color: white;
+	line-height: 20px;	
+	text-decoration: none;
+	font-size: 18px;
+	font-family: 'Grandstander', cursive;
+}
+
+.links:hover {
+	font-size: 20px;
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+
+.selected {
+	font-weight: bold;
+}
+
+/* BANNER */
+.banner {	
+	object-fit: cover;
+	object-position: center;
+	height: 400px;
+	width: 100%;
+	margin: 0 0 30px 0;
+}
+
+/* SOCIAL MEDIA LINKS */
+.socialMedia {
+	text-align: center;
+	z-index: 1;
+}
+
+.icon {
+	margin-right: 10px;
+}
+
+.icon:hover {
+	transform: scale(1.2, 1.2);	
+}
+
+/* PROFILE PIC */
+.profilePic {
+	object-fit: cover;
+	object-position: center;
+	margin: 30px 0 0 400px;
+	height: 800px;
+	width: 50%;
+}
+
+body {
+	margin: 0px;
+	/*background-color: black;*/
+}
+

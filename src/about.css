@@ -1,0 +1,19 @@
+.arenaPic {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+.about {
+	background-color: black;
+	position: fixed;
+}
+
+.description {
+	color: white;
+	/*text-align: center;*/
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 25px;
+}
