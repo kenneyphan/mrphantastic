@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mrphantastic/static/css/main.91e64217.chunk.css",
+    "main.js": "/mrphantastic/static/js/main.db16d9ea.chunk.js",
+    "main.js.map": "/mrphantastic/static/js/main.db16d9ea.chunk.js.map",
+    "runtime-main.js": "/mrphantastic/static/js/runtime-main.819fba6b.js",
+    "runtime-main.js.map": "/mrphantastic/static/js/runtime-main.819fba6b.js.map",
+    "static/js/2.e4e2cf87.chunk.js": "/mrphantastic/static/js/2.e4e2cf87.chunk.js",
+    "static/js/2.e4e2cf87.chunk.js.map": "/mrphantastic/static/js/2.e4e2cf87.chunk.js.map",
+    "index.html": "/mrphantastic/index.html",
+    "static/css/main.91e64217.chunk.css.map": "/mrphantastic/static/css/main.91e64217.chunk.css.map",
+    "static/js/2.e4e2cf87.chunk.js.LICENSE.txt": "/mrphantastic/static/js/2.e4e2cf87.chunk.js.LICENSE.txt",
+    "static/media/Arena.cb641aa4.JPG": "/mrphantastic/static/media/Arena.cb641aa4.JPG",
+    "static/media/BOP_FINAL.4b07442e.png": "/mrphantastic/static/media/BOP_FINAL.4b07442e.png",
+    "static/media/Rank pic.2f097f2c.png": "/mrphantastic/static/media/Rank pic.2f097f2c.png",
+    "static/media/Selah pic final.9f969ad4.png": "/mrphantastic/static/media/Selah pic final.9f969ad4.png",
+    "static/media/videos.css": "/mrphantastic/static/media/VTKS CLASSICAL HIT.09cec3f1.TTF",
+    "static/media/WebsitemusicBG.3a357220.mp4": "/mrphantastic/static/media/WebsitemusicBG.3a357220.mp4",
+    "static/media/bannerVid.db748113.mp4": "/mrphantastic/static/media/bannerVid.db748113.mp4",
+    "static/media/blood new.46c580ea.png": "/mrphantastic/static/media/blood new.46c580ea.png",
+    "static/media/erebus-knight-chii.37461f7c.jpg": "/mrphantastic/static/media/erebus-knight-chii.37461f7c.jpg",
+    "static/media/mrphantastic banner.c5fdd176.jpg": "/mrphantastic/static/media/mrphantastic banner.c5fdd176.jpg",
+    "static/media/mrphantastic no logo.3f9c36ab.jpg": "/mrphantastic/static/media/mrphantastic no logo.3f9c36ab.jpg",
+    "static/media/reppo pic.ad200b85.png": "/mrphantastic/static/media/reppo pic.ad200b85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.819fba6b.js",
+    "static/js/2.e4e2cf87.chunk.js",
+    "static/css/main.91e64217.chunk.css",
+    "static/js/main.db16d9ea.chunk.js"
+  ]
+}
